@@ -1,7 +1,4 @@
 // app/layout.tsx
-'use client';
-
-
 import "./globals.css"; // ✅ car maintenant il est dans le même dossier
 
 
