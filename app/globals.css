@@ -1,0 +1,26 @@
+
+body {
+  background-image: url('/background.jpg'); /* mets ici le nom exact de ton image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* app/globals.css ou styles/globals.css */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #117be6;
+  color: #333;
+}
+
